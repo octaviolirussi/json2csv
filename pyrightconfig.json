@@ -1,0 +1,13 @@
+{
+  "pythonVersion": "3.12",
+  "venvPath": ".",
+  "venv": ".venv313",
+  "include": ["src", "tests"],
+  "exclude": ["ejemplos", "script", "docs/site", ".venv313"],
+  "typeCheckingMode": "strict",
+  "reportPrivateUsage": "none",
+  "reportUnknownVariableType": "none",
+  "reportUnknownMemberType": "none",
+  "reportUnknownArgumentType": "none",
+  "reportUntypedFunctionDecorator": "none"
+}

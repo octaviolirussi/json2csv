@@ -20,7 +20,6 @@ coverage.xml
 .mypy_cache/
 
 # Pyright
-pyrightconfig.json
 
 # pdoc output (generated; committed only via CI)
 docs/site/
