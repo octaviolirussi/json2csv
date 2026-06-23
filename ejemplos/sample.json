@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nombre": "Ana García",   "ciudad": "Mar del Plata", "edad": 30 },
+  { "id": 2, "nombre": "Bruno López",  "ciudad": "Buenos Aires",  "edad": 25 },
+  { "id": 3, "nombre": "Carla Méndez", "ciudad": "Córdoba",       "edad": 35 }
+]

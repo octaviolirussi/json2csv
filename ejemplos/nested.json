@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "usuario": {
+      "nombre": "Ana García",
+      "contacto": {
+        "email": "ana@example.com",
+        "telefono": "0223-555-1234"
+      }
+    },
+    "scores": [10, 20, 30]
+  },
+  {
+    "id": 2,
+    "usuario": {
+      "nombre": "Bruno López",
+      "contacto": {
+        "email": "bruno@example.com",
+        "telefono": "011-555-9876"
+      }
+    },
+    "scores": [15, 25, 35]
+  }
+]
