@@ -12,7 +12,7 @@
 | Cobertura  | ≥ 85 %             |
 
 
----
+
 
 ## Funciones disponibles
 
