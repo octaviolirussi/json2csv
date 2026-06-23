@@ -1,12 +1,5 @@
 # json2csv
 
-`json2csv` es un paquete Python para convertir archivos **JSON a CSV**.
-Proyecto de prueba para mostrar elementos de integración continua.
-Materia *Calidad de Software* – UFASTA – Mar del Plata.
-
-Copyright © Dr. Pedro E. Colla 2026
-
----
 
 ## Estado
 
@@ -18,7 +11,6 @@ Copyright © Dr. Pedro E. Colla 2026
 | CI         | GitHub Actions     |
 | Cobertura  | ≥ 85 %             |
 
-![CI](https://github.com/lu7did/json2csv/actions/workflows/ci.yml/badge.svg)
 
 ---
 
